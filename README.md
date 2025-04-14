@@ -1,5 +1,16 @@
-## Hi there 👋
-
+# Hi I'am Azra Efza Gür👋
+I am currently a second-year Computer Engineering student and a first-year Business Administration student. I am passionate about self-improvement and continuous learning. I firmly believe that dedication and disciplined effort are the keys to success. 
+## Education
+- Ankara Bilim University / Computer Engineering (2022-present) 
+- Anadolu University / Business Administration (2024-present)
+### Interests
+- Web Development
+- Data Science
+- Machine Learning 
+- AI Literacy
+- Financial Literacy
+- Frontend Development
+- Social Media Management
 <!--
 **azraefzagur/azraefzagur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
