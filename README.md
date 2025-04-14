@@ -11,6 +11,9 @@ I am currently a second-year Computer Engineering student and a first-year Busin
 - Financial Literacy
 - Frontend Development
 - Social Media Management
+#### Contact Information
+- Email: azraefzagur@gmail.com
+- LinkedIn: https://www.linkedin.com/in/azra-efza-g%C3%BCr-28772524b/ 
 <!--
 **azraefzagur/azraefzagur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
