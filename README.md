@@ -8,7 +8,6 @@ I am currently a second-year Computer Engineering student and a first-year Busin
 - Data Science
 - Machine Learning 
 - AI Literacy
-- Financial Literacy
 - Frontend Development
 - Social Media Management
 #### Contact Information
