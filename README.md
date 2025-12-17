@@ -4,12 +4,12 @@ I am currently a third-year Computer Engineering student and a second-year Busin
 - Ankara Bilim University / Computer Engineering (2022-present) 
 - Anadolu University / Business Administration (2024-present)
 ### Interests
+- AI Literacy
+- Machine Learning
 - Web Development
 - Data Science
-- Machine Learning 
-- AI Literacy
+- Data Analysis
 - Frontend Development
-- Social Media Management
 #### Contact Information
 - Email: azraefzagur@gmail.com
 - LinkedIn: https://www.linkedin.com/in/azra-efza-g%C3%BCr-28772524b/ 
